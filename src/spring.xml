@@ -8,4 +8,9 @@
         <property name="name" value="Sami Bettayeb" />
     </bean>
 
+    <bean id="person1" class="Person">
+        <constructor-arg value="1" />
+        <constructor-arg value="Sami Bettayeb" />
+    </bean>
+
 </beans>
