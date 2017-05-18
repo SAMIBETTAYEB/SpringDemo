@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8ad596a-6d3c-426c-93d0-5b4f6d4d90bd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ConstructorInjectionMain.java" afterPath="$PROJECT_DIR$/src/ConstructorInjectionMain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Person.java" afterPath="$PROJECT_DIR$/src/Person.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/spring.xml" afterPath="$PROJECT_DIR$/src/spring.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,8 +66,8 @@
       <file leaf-file-name="ConstructorInjectionMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ConstructorInjectionMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="330">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -638,15 +637,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495141661689</updated>
-      <workItem from="1495141672637" duration="1850000" />
+      <workItem from="1495141672637" duration="2134000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1850000" />
+    <option name="totallyTimeSpent" value="2134000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1554" height="916" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -746,8 +746,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ConstructorInjectionMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="330">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

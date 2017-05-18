@@ -8,6 +8,6 @@ public class ConstructorInjectionMain {
     public static void main(String[] args){
         ApplicationContext context=new ClassPathXmlApplicationContext("spring.xml");
         System.out.println(((Person)context.getBean("person1")).toString());
-        System.out.println(((Person)context.getBean("person2")).getName());
+        System.out.println(((Person)context.getBean("person2")).toString());
     }
 }
