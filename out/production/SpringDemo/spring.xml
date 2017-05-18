@@ -13,4 +13,8 @@
         <constructor-arg value="Sami Bettayeb" />
     </bean>
 
+    <bean id="person2" class="Person">
+        <constructor-arg type="java.lang.String" value="Sami Bettayeb" />
+    </bean>
+
 </beans>
