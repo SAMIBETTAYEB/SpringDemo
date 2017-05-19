@@ -44,4 +44,7 @@
         </property>
     </bean>
 
+    <alias name="person5" alias="person6" />
+
+
 </beans>
