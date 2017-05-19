@@ -22,4 +22,15 @@
         <constructor-arg index="1" value="Sami Bettayeb" />
     </bean>
 
+    <bean id="address" class="Address">
+        <property name="address" value="Chechar, Khenchela, Algeria"/>
+        <property name="email" value="sami3639@gmail.com"/>
+    </bean>
+
+    <bean id="person4" class="PersonWithAddress">
+        <property name="id" value="1" />
+        <property name="name" value="Sami Bettayeb" />
+        <property name="address" ref="address" />
+    </bean>
+
 </beans>
